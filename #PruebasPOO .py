@@ -1,4 +1,4 @@
-#Pruebas de claude
+#Pruebas de POO
 
 ###class estudiante:
     #def __init__(self, nombre, carrera, promedio):
